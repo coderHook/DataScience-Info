@@ -1,0 +1,11 @@
+Here are two ways to go about finding a good topic:
+
+Think about what sectors or angles you're really interested in, then find data sets relating to those sectors.
+Review several data sets, and find one that seems interesting enough to explore.
+Whichever approach you take, you can start your search at these sites:
+
+Data.gov - A directory of government data downloads
+/r/datasets - A subreddit that has hundreds of interesting data sets
+Awesome datasets - A list of data sets hosted on GitHub
+rs.io - A great blog post with hundreds of interesting data sets
+In real-world data science, you may not find an ideal data set. You might have to aggregate disparate data sources instead, or do a good amount of data cleaning.
